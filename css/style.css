@@ -75,6 +75,7 @@
     padding-top: 216px;
     padding-bottom: 167px;
     position: relative;
+    margin-bottom: 130px;
    }
    .banner-contain{
     text-align: right;
@@ -156,6 +157,9 @@
 /* ===================================================================================
                             Navbar  css start Here
    =================================================================================== */
+   #plans{
+    margin-top: 130px;
+   }
    .plan-header{
     text-align: center;
    }
@@ -200,7 +204,7 @@
                             Navbar  css start Here
    =================================================================================== */
    #call-to-action{
-    margin-bottom: 100px;
+    margin-bottom: 130px;
    }
    .mind-set-up{
     background: url('../images/watch.png');
