@@ -247,6 +247,67 @@
 /* ===================================================================================
                             footer css End Here
    =================================================================================== */
+   #footer{
+    background-color: #151414;
+    padding: 125px 0;
+   }
+   .footer-wrapper{
+    display: flex;
+   }
+   .footer-left .common-head{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    color:#F8F8F8;
+   }
+   .footer-left p{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color:#fff;
+    margin-bottom: 20px;
+    padding-right: 408px;
+margin-top: 15px;
+   }
+   .footer-left h6{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:#fff;
+    margin-bottom: 16px;
+   }
+   .footer-right h4{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    color:#fff;
+   }
+   .footer-right input{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color:#fff;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 18px;
+    border-radius: 8px;
+    border: 0;
+    display: inline-block;
+    margin-top: 30px;
+    margin-bottom: 28px;
+   }
+   .footer-right a{
+   padding: 15px 30px;
+   background-color: #fff;
+   border-radius: 8px;
+   font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+color: #F15B22;
+text-transform: capitalize;
+   }
 /* ===================================================================================
                             footer css End Here
    =================================================================================== */
