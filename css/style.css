@@ -156,6 +156,41 @@
 /* ===================================================================================
                             Navbar  css start Here
    =================================================================================== */
+   .plan-header{
+    text-align: center;
+   }
+   .plan-header h4{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: #151414;
+
+   }
+   .plan-item img{
+    width: 92px;
+    height: 92px;
+   }
+   .plan-item{
+    text-align: center;
+   }
+   .plan-item h5{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #151414;
+    padding: 20px 0;
+   }
+   .plan-item p{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    color: #151414;
+   }
+   .plans-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+   }
 /* ===================================================================================
                             Navbar css End Here
    =================================================================================== */
