@@ -366,11 +366,13 @@ nav {
    color: #F15B22;
    text-transform: capitalize;
 }
-.b-fonts{
+
+.b-fonts {
    display: flex;
    margin-top: 25px;
 }
-.b-fonts .font-items{
+
+.b-fonts .font-items {
    width: 46px;
    height: 46px;
    border-radius: 50%;
@@ -378,8 +380,9 @@ nav {
    margin-right: 18px;
    text-align: center;
 }
-.b-fonts .font-items:last-child{
- margin-right: 0;
+
+.b-fonts .font-items:last-child {
+   margin-right: 0;
 }
 
 /* ===================================================================================
